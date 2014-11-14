@@ -1,0 +1,12 @@
+C:\Users\Brendan\AppData\Local\Temporary Projects\copyXYtoclipboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brendan\AppData\Local\Temporary Projects\copyXYtoclipboard\bin\Release\copyXYtoclipboard.dll
+C:\Users\Brendan\AppData\Local\Temporary Projects\copyXYtoclipboard\bin\Release\copyXYtoclipboard.pdb
+C:\Users\Brendan\AppData\Local\Temporary Projects\copyXYtoclipboard\obj\Release\copyXYtoclipboard.dll
+C:\Users\Brendan\AppData\Local\Temporary Projects\copyXYtoclipboard\obj\Release\copyXYtoclipboard.pdb
+C:\Users\Brendan\AppData\Local\Temporary Projects\copyXYtoclipboard\bin\Release\copyXYtoclipboard.esriAddIn
+C:\geoeye\copyXYtoclipboard\copyXYtoclipboard\bin\Release\copyXYtoclipboard.dll
+C:\geoeye\copyXYtoclipboard\copyXYtoclipboard\bin\Release\copyXYtoclipboard.pdb
+C:\geoeye\copyXYtoclipboard\copyXYtoclipboard\obj\Release\ResolveAssemblyReference.cache
+C:\geoeye\copyXYtoclipboard\copyXYtoclipboard\obj\Release\copyXYtoclipboard.dll
+C:\geoeye\copyXYtoclipboard\copyXYtoclipboard\obj\Release\copyXYtoclipboard.pdb
+C:\geoeye\copyXYtoclipboard\copyXYtoclipboard\bin\Release\copyXYtoclipboard.esriAddIn

@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>copyXYtoclipboard</Name>
+  <AddInID>{76b26c66-da18-461d-862b-853a1fc68126}</AddInID>
+  <Description>A tool for ArcMap to copy an coordinates to the clip board.  When activated, the user can click on the map, and the tool will copy the map coordinates to the windows clipboard.  The user can then paste the values into another document/application.</Description>
+  <Version>1.0</Version>
+  <Image>Images\copyXYtoclipboard.png</Image>
+  <Author>dwyerb</Author>
+  <Company>Tampa</Company>
+  <Date>3/5/2013</Date>
+  <Targets>
+    <Target name="Desktop" version="10.0" />
+  </Targets>
+  <AddIn language="CLR" library="copyXYtoclipboard.dll" namespace="copyXYtoclipboard">
+    <ArcMap>
+      <Commands>
+        <Tool id="DigitalGlobe_copyXYtoclipboard_copyXY" class="copyXY" message="Copy XY values from ArcMap to the windows clipboard." caption="Copy XY To Clipboard" tip="Copy x y location to clipboard.  " category="Add-In Controls" image="Images\copyXY.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>
